@@ -97,9 +97,9 @@
 
 @font-face {
   font-family: 'ClashGrotesk-Bold';
-  src: url('../fonts/ClashGrotesk-Bold.woff2') format('woff2'),
-       url('../fonts/ClashGrotesk-Bold.woff') format('woff'),
-       url('../fonts/ClashGrotesk-Bold.ttf') format('truetype');
+  src: url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/ClashGrotesk-Bold.woff2') format('woff2'),
+       url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/ClashGrotesk-Bold.woff') format('woff'),
+       url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/ClashGrotesk-Bold.ttf') format('truetype');
        font-weight: 700;
        font-display: swap;
        font-style: normal;
