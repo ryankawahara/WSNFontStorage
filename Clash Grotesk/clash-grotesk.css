@@ -64,9 +64,9 @@
 
 @font-face {
   font-family: 'ClashGrotesk-Regular';
-  src: url('../fonts/ClashGrotesk-Regular.woff2') format('woff2'),
-       url('../fonts/ClashGrotesk-Regular.woff') format('woff'),
-       url('../fonts/ClashGrotesk-Regular.ttf') format('truetype');
+  src: url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/ClashGrotesk-Regular.woff2') format('woff2'),
+       url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/ClashGrotesk-Regular.woff') format('woff'),
+       url('https://rawcdn.githack.com/ryankawahara/WSNFontStorage/70f821904159967f4ad0322dc6eb45bade82bd81/Clash%20Grotesk/fonts/ClashGrotesk-Regular.ttf') format('truetype');
        font-weight: 400;
        font-display: swap;
        font-style: normal;
