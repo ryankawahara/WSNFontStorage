@@ -46,4 +46,4 @@ Now it should look like this.
        font-style: normal;
 }
 ```
-Now you can use the following in your CSS in SNO: `font-family: "ClashGrotesk-Variable";`
+Now, if you copy and paste that chunk into https://nyunews.com/wp-admin/admin.php?page=theme-options , (or into the WP Bakery CSS), you can use the following in your CSS in SNO: `font-family: "ClashGrotesk-Variable";`
